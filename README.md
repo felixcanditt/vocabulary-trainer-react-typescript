@@ -1,6 +1,7 @@
 # Vocabulary Trainer
 
-**A modern, accessible React app for learning and managing vocabulary. Built with TypeScript, WCAG best practices, and fully unit-tested.**
+A modern, accessible React app for learning and managing vocabulary. Built with TypeScript, WCAG best practices, and fully unit-tested.
+To use my app, [click here](https://vocabulary-trainer-app.vercel.app/).
 
 **Tech Stack & Highlights:**
 React | TypeScript | CSS | Hooks | WCAG | Jest & React Testing Library
@@ -11,7 +12,7 @@ React | TypeScript | CSS | Hooks | WCAG | Jest & React Testing Library
 - Modular, typed components with state managed via hooks
 - Persistent data using Local Storage
 - Responsive and user-friendly UI
-- **Unit-tested** core flows (add, edit, delete)
+- Unit-tested core flows (add, edit, delete)
 
 **Getting Started:**  
 1. Clone the repo  
